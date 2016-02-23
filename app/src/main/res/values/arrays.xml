@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>http://gdc.hupucdn.com/gdc/nba/team/logo/e59350a5bc97aa5c.png</item>
+        <item>http://gdc.hupucdn.com/gdc/nba/team/logo/MIA.png</item>
+        <item>http://gdc.hupucdn.com/gdc/nba/team/logo/NYK.png</item>
+        <item>http://gdc.hupucdn.com/gdc/nba/team/logo/ORL.png</item>
+    </string-array>
+
+</resources>
